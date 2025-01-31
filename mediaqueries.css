@@ -37,6 +37,11 @@
   section {
     margin: 0 5%;
   }
+  .section__pic-container {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 2rem;
+  }
   .about-containers {
     margin-top: 0;
   }
